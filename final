@@ -1,0 +1,43 @@
+# Projet Final : Découverte des Outils Data Science
+
+Ce notebook présente une introduction aux outils essentiels de la data science, incluant les langages, bibliothèques et outils les plus utilisés.
+
+- NumPy (calcul scientifique)
+
+| Outil          | Utilisation                     |
+|----------------|---------------------------------|
+| Jupyter        | Notebooks interactifs           |
+| GitHub         | Collaboration et partage de code|
+
+
+# Multiplier et additionner
+resultat = (3 * 4) + 5
+print("Résultat :", resultat)
+
+
+[1] # Projet Final : Découverte des Outils Data Science
+
+[2] Ce notebook présente une introduction aux outils essentiels...
+
+[3] ## Langages populaires en data science :
+    1. Python
+    2. R
+    [...]
+
+[4] ## Bibliothèques clés :
+    - Pandas
+    - NumPy
+    [...]
+
+[5] | Outil | Utilisation |
+    |-------|-------------|
+    | Jupyter | Notebooks interactifs |
+    [...]
+
+[6] ## Exemples d'expressions arithmétiques :
+
+[7] # Multiplier et additionner
+    resultat = (3 * 4) + 5
+    print(resultat)
+
+[...]
